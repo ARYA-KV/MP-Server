@@ -1,0 +1,62 @@
+{
+  "allVideos": [
+    {
+      "id": "f09f",
+      "caption": "Little Women",
+      "imgURL": "https://cdn.britannica.com/86/213486-050-077323E8/Movie-still-Emma-Watson-Florence-Pugh-Saoirse-Ronan-Eliza-Scanlen-Little-Women-2019.jpg",
+      "youtubeURL": "https://www.youtube.com/embed/AST2-4db4ic"
+    },
+    {
+      "id": "14b1",
+      "caption": "THE FRENCH DISPATCH",
+      "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4EsiXiWhPRAisi4EZaLN7j5DpBvNyPFH4yzkrsjOxbA&s",
+      "youtubeURL": "https://www.youtube.com/embed/TcPk2p0Zaw4"
+    },
+    {
+      "id": "b747",
+      "caption": "Modern Family",
+      "imgURL": "https://i.ytimg.com/vi/7pUWVxp8U5s/hqdefault.jpg",
+      "youtubeURL": "https://www.youtube.com/embed/KO29jdnEiAs"
+    }
+  ],
+  "history": [
+    {
+      "id": "61c0",
+      "caption": "Before Sunrise",
+      "youtubeURL": "https://www.youtube.com/embed/6MUcuqbGTxc",
+      "timeStamp": "5/2/2024, 9:01:05 AM GMT+5:30"
+    },
+    {
+      "id": "a16d",
+      "caption": "Little Women",
+      "youtubeURL": "https://www.youtube.com/embed/AST2-4db4ic",
+      "timeStamp": "5/6/2024, 10:57:18 PM GMT+5:30"
+    }
+  ],
+  "allCategory": [
+    {
+      "id": "055d",
+      "categoryName": "Trailers",
+      "allVideos": [
+        {
+          "id": "a221",
+          "caption": "Dune",
+          "imgURL": "https://m.media-amazon.com/images/M/MV5BMDQ0NjgyN2YtNWViNS00YjA3LTkxNDktYzFkZTExZGMxZDkxXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg",
+          "youtubeURL": "https://www.youtube.com/embed/8g18jFHCLXk"
+        }
+      ]
+    },
+    {
+      "id": "8eb1",
+      "categoryName": "Tutorials",
+      "allVideos": [
+        {
+          "id": "e3f2",
+          "caption": "REACT Js",
+          "imgURL": "https://shethink.in/wp-content/uploads/2021/07/react.js-img.png",
+          "youtubeURL": "https://www.youtube.com/embed/w7ejDZ8SWv8"
+        }
+      ]
+    }
+  ]
+}
